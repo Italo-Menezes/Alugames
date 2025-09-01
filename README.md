@@ -88,10 +88,3 @@ function alterarStatus(x) {
 5. Abra um Pull Request
 
 ---
-
-## 📄 Licença
-
-Este projeto está sob a licença **MIT** - veja o arquivo [LICENSE](LICENSE) para detalhes.
-
----
-
