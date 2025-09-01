@@ -95,8 +95,3 @@ Este projeto está sob a licença **MIT** - veja o arquivo [LICENSE](LICENSE) pa
 
 ---
 
-## 📞 Contato
-
-* **Nome:** Seu Nome
-* **Email:** [seuemail@empresa.com](mailto:seuemail@empresa.com)
-* **LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
